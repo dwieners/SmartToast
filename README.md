@@ -4,6 +4,8 @@
 
 SmartToast is an Android library for a beautiful and customizable Toasts
 
+## Usage
+
 Add it in your root build.gradle at the end of repositories:
 
 ```gradle
