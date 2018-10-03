@@ -1,3 +1,3 @@
 # SmartToast
 
-SmartToast is an an Android library for beautiful and customizable Toasts
+SmartToast is an Android library for a beautiful and customizable Toasts
