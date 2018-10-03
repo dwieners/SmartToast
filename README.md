@@ -2,7 +2,7 @@
 
 [![](https://jitpack.io/v/dwieners/SmartToast.svg)](https://jitpack.io/#dwieners/SmartToast)
 
-SmartToast is an Android library for a beautiful and customizable Toasts
+SmartToast is an Android library for a beautiful and customizable Toast
 
 ## Usage
 
