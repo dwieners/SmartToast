@@ -2,6 +2,7 @@ package de.dominikwieners.smarttoast
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.design.widget.Snackbar
 import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
@@ -10,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //SmartToast.custom(this, "Hallo", android.R.color.white, android.R.color.holo_orange_dark, Toast.LENGTH_LONG).show()
-        SmartToast.error(this, "Hallo").show()
+        //SmartToast.customToast(this, "Hallo", android.R.color.white, android.R.color.holo_orange_dark, Toast.LENGTH_LONG).show()
+        SmartToast.successSnack(this, "Success", Snackbar.LENGTH_SHORT).show()
     }
 }
