@@ -22,7 +22,6 @@ Add the dependencies
 ```gradle
 dependencies {
 	implementation 'com.github.dwieners:SmartToast:0.1.1'
-	implementation 'com.android.support:design:28.0.0'
 }
 ```
 
